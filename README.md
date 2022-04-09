@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://clara-pacheco.github.io/Front_end_mentor--project02--Equalizer-landing-page/)
+- Live Site URL: [https://clara-pacheco.github.io/Front_end_mentor--project02--Equalizer-landing-page/]()
 
 ## My process
 
