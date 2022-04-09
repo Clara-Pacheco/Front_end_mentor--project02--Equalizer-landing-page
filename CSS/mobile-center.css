@@ -1,0 +1,12 @@
+.mobile-center-image .purple-container {
+  width: 1110px;
+  height: 600px;
+  background-color: #191826;
+  border-radius: 12px;
+  box-shadow: 0 4px 4px #979797;
+  position: relative;
+  top:860px;
+  left:165px;
+  right:165px;
+  bottom:372px;
+}
