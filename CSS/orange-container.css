@@ -1,0 +1,120 @@
+.orange-container {
+  width: 446px;
+  height: 625px;
+  border-radius: 12px;
+  background-color: #FA7453;
+  box-shadow: 0 4px 4px #979797;
+  position: absolute;
+  top: 90px;
+  left: 569px;
+  right: 95px;
+}
+
+.orange-container h2 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 52px;
+  letter-spacing: 0;
+  color: #ffffff;
+  position: absolute;
+  top: 58px;
+  left: 54px;
+  right: 59px;
+  bottom: 22px;
+
+}
+
+.orange-container .text-orange-container {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  color: #FCFAF9;
+  position: absolute;
+  top: 132px;
+  left: 54px;
+  right: 59px;
+  bottom: 323px;
+}
+
+.orange-container .price-orange-container {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+  font-size: 65px;
+  line-height: 52px;
+  color: #FCFAF9;
+  position: absolute;
+  top: 341px;
+  left: 130px;
+  right: 313px;
+  bottom: 232px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.orange-container .price-orange-container span {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: -0.2px;
+  color: #ffffff;
+  
+}
+
+.orange-container .ios-button {
+  width: 333px;
+  height: 61px;
+  border: 1px solid #000000;
+  background-color: #191826;
+  border-radius: 12px;
+
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: -0.18px;
+  color: #FCFAF9;
+  text-align: center;
+
+  position: absolute;
+  top: 439px;
+  left: 54px;
+  right: 59px;
+  bottom: 125px;
+
+}
+
+.orange-container .android-button {
+  width: 333px;
+  height: 61px;
+  border: 1px solid #000000;
+  background-color: #FCFAF9;
+  border-radius: 12px;
+
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: -0.18px;
+  color: #191826;
+  text-align: center;
+
+  position: absolute;
+  top: 516px;
+  left: 54px;
+  right: 59px;
+  bottom: 48px;
+
+}
+
+.orange-container .ios-button .icon,
+.orange-container .android-button .icon {
+  margin-right: 8px;
+}
+
+
+
