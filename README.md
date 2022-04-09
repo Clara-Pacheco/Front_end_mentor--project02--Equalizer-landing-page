@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot from the final project](https://github.com/Clara-Pacheco/Front_end_mentor--project02--Equalizer-landing-page/blob/main/assets/preview.jpg)
 
 
 ### Links
