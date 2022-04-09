@@ -1,0 +1,27 @@
+main .text h1 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+  font-size: 88px;
+  line-height: 88px;
+  letter-spacing: -1px;
+  color: #191826;
+  position: relative;
+  top: 221px;
+  left: 165px;
+  right: 260px;
+  bottom: 1435px;
+}
+
+main .text p {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  letter-spacing: 0px;
+  color: #191826;
+  position: relative;
+  top: 261px;
+  left: 165px;
+  right: 478px;
+  bottom: 1293px;
+}
