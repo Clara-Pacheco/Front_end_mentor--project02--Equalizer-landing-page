@@ -111,6 +111,14 @@
 
 }
 
+.orange-container .ios-button:hover {
+  background-color: #66E2DC;
+}
+
+.orange-container .android-button:hover {
+  background-color: #FFB964;
+}
+
 .orange-container .ios-button .icon,
 .orange-container .android-button .icon {
   margin-right: 8px;
