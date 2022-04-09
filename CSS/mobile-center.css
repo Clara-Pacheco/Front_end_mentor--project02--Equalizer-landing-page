@@ -19,5 +19,15 @@
   left: 113px;
   right: 696px;
   bottom: 170px;
+  z-index: 1;
+}
+
+.circles {
+  position: absolute;
+  top: -40px;
+  left: 336px;
+  right: 462px;
+  bottom: 172px;
+  z-index: -0;
 
 }
