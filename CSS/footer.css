@@ -1,0 +1,43 @@
+footer {
+  width: 1110px;
+  height: 79px;
+  position: absolute;
+  top:1662px;
+  left: 165px;
+  right: 165px;
+  bottom: 91px;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+footer .logo-footer {
+  width: 146px;
+  height: 32px;
+}
+
+footer p {
+  width: 366px;
+  height: 79px;
+
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #191826;
+
+}
+
+footer .text-footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #191826;
+}
+
+footer .social-media {
+  width: 100px;
+  height: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
