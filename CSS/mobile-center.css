@@ -4,9 +4,20 @@
   background-color: #191826;
   border-radius: 12px;
   box-shadow: 0 4px 4px #979797;
-  position: relative;
+  position: absolute;
   top:860px;
   left:165px;
   right:165px;
   bottom:372px;
+}
+
+ .mobile {
+  width: 312px;
+  height: 642px;
+  position: absolute;
+  top: -200px;
+  left: 113px;
+  right: 696px;
+  bottom: 170px;
+
 }
